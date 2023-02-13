@@ -1,0 +1,8 @@
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\bin\Debug\StockDelegate.exe.config
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\bin\Debug\StockDelegate.exe
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\bin\Debug\StockDelegate.pdb
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\obj\Debug\StockDelegate.csproj.AssemblyReference.cache
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\obj\Debug\StockDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\obj\Debug\StockDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\obj\Debug\StockDelegate.exe
+C:\Users\Медиацентр\source\repos\StockDelegate\StockDelegate\obj\Debug\StockDelegate.pdb
