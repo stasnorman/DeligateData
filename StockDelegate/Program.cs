@@ -16,7 +16,7 @@ namespace StockDelegate
         }
         public static void ShowPrice(int price)
         {
-            Console.WriteLine($"New price is: {price}");
+            Console.WriteLine($"Стоимость сейчас: {price}");
         }
     }
 }
